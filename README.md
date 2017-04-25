@@ -1,4 +1,9 @@
 # lncRNA-mRNA-interaction
+
+lncRNA database
+[lncipedia](http://www.lncipedia.org/)
+
+
 Collected methods of lncRNA &amp; mRNA interaction
 
 #Softwares 
